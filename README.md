@@ -3,7 +3,7 @@
 <!--
 **yghugardare/yghugardare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  -->
 
 - 👋 Hi, I'm Yash, a third-year CS student with a passion for web development and a growing interest in data engineering. I love crafting user-friendly experiences and building robust, scalable web applications.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📧 Want to embark on a coding adventure or exchange tales of programming mishaps? Shoot me an email at [your email address]. Let's brew some awesome code together!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "The best part about coding is when your code works and you feel like a wizard. The worst part is when it breaks and you feel like a muggle."
--->
+
