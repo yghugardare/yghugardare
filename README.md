@@ -23,15 +23,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwing,mui,node,express,firebase,mongodb,nextjs,git,github,java" /><br>
-    <img src="https://skillicons.dev/icons?i=ts,appwrite,bootstrap,supabase,threejs,graphql,mysql,solidity,jest,vscode,vercel,prisma,postman,sass,codepen,supabase,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwind,mui,nodejs,express,firebase,mongodb,nextjs,git,github,java,ts,appwrite,bootstrap,supabase,threejs,graphql,mysql,solidity,jest,vscode,vercel,prisma,postman,sass,codepen,supabase,docker,replit" />
+    
 </div>
-<h3 align="left">Languages and Tools:</h3>
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode,git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<br/>
+<hr/>
 
 <h3 align="center">🤝Connect with me🤝</h3>
 <div align="center">
