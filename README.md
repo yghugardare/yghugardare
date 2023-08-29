@@ -3,7 +3,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Yash+Ghugardare!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
+<h2 align="center">I'm a a final-year CS student with a passion for web development</h2>
 <br/>
 <div align="center" justify="center" >
     
@@ -46,7 +46,7 @@
 </div>
 <br/>
 <hr/>
-<h3 align="center">🤝Connect with me🤝</h3>
+<h2 align="center">🤝Connect with me🤝</h2>
 <div align="center">
 <a href="https://twitter.com/yghugardare15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yghugardare15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yghugar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yghugar" height="30" width="40" /></a>
