@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/yghugardare15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yghugardare15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yghugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yghugar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yashg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashg" height="30" width="40" /></a>
+<a href="https://hashnode.com/@yashg" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@yashg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash_ghugardare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_ghugardare" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yghugardare6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yghugardare6" height="30" width="40" /></a>
 </p>
