@@ -59,15 +59,4 @@
 <!--
 **yghugardare/yghugardare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:  -->
-
-- 👋 Hi, I'm Yash, a final-year CS student with a passion for web development and a growing interest in data engineering. I love crafting user-friendly experiences and building robust, scalable web applications.
-
-- 💻 Proficient in HTML, CSS, JavaScript,  and React.js, I enjoy working on front-end development, creating responsive interfaces, and implementing interactive features.
-- 🔧 Additionally, I'm exploring the world of data engineering and eager to learn more about tools like Apache Spark and Apache Kafka. I'm excited about leveraging data pipelines and building scalable systems to solve complex data challenges.
-- 🌐 Currently seeking opportunities to contribute to open-source projects and be an active part of the developer community. I believe in the power of collaboration and the impact it can have on shaping innovative solutions.
-- 🏆 I'm proud of my recent project, Personal Portfolio, where I developed a front-end portfolio for myself to showcase my skills. You can check it out here:.
-- 📧 Reach Out to me at yghugardare6@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Stay Relentless!
 
