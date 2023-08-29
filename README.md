@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphgql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode,git,kubernetes,docker,c,vim" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphgql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yghugardare&show_icons=true&locale=en&layout=compact" alt="yghugardare" /></p>
 
