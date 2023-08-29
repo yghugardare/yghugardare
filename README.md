@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yghugardare&label=Profile%20views&color=0e75b6&style=flat" alt="yghugardare" /> </p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Yash+Ghugardare!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B" alt="Typing SVG" /></a>
@@ -6,23 +6,15 @@
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yghugardare&label=Profile%20views&color=0e75b6&style=flat" alt="yghugardare" /> </p>
+- 🔭 I’m currently working on **Contact app project using Firebase,React and Tailwind**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yghugardare" alt="yghugardare" /></a> </p>
+- 🌱 I’m currently learning **Redux, react query and typescript**
 
-- 🔭 I’m currently working on **XYZ**
-
-- 🌱 I’m currently learning **Redux, react query , typescript**
-
-- 👯 I’m looking to collaborate on **ABC**
-
-- 🤝 I’m looking for help with **asd**
+- 👯 I’m seeking opportunities to contribute to open-source projects
 
 - 👨‍💻 All of my projects are available at [https://yghugardare.github.io/YashPortfolio/](https://yghugardare.github.io/YashPortfolio/)
 
 - 📝 I regularly write articles on [https://yash-ghugardare-blogs.hashnode.dev/](https://yash-ghugardare-blogs.hashnode.dev/)
-
-- 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **yghugardare6@gmail.com**
 <!--
