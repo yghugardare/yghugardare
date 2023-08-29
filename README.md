@@ -7,18 +7,19 @@
 <br/>
 <div align="center" justify="center" >
     
-- 🔭 I’m currently working on **Contact app project using Firebase,React and Tailwind**
+ 🔭 I’m currently working on **Contact app project using Firebase,React and Tailwind**
 
-- 🌱 I’m currently learning **Redux, react query and typescript**
+ 🌱 I’m currently learning **Redux, react query and typescript**
 
-- 👯 I’m seeking opportunities to contribute to open-source projects
+ 👯 I’m seeking opportunities to contribute to open-source projects
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yghugardare.github.io/YashPortfolio/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://yghugardare.github.io/YashPortfolio/)
 
-- 📝 I regularly write articles on [Hashnode](https://yash-ghugardare-blogs.hashnode.dev/)
+ 📝 I regularly write articles on [Hashnode](https://yash-ghugardare-blogs.hashnode.dev/)
 
-- 📫 How to reach me **yghugardare6@gmail.com**
+ 📫 How to reach me **yghugardare6@gmail.com**
 </div>
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
