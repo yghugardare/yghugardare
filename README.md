@@ -20,23 +20,13 @@
  📫 How to reach me **yghugardare6@gmail.com**
 </div>
 <br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yghugardare15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yghugardare15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yghugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yghugar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yashg" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@yashg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash_ghugardare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_ghugardare" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yghugardare6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yghugardare6" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode,git,kubernetes,docker,c,vim" />
   </a>
 </p>
-<br/>
+
 <h3 align="center">🤝Connect with me🤝</h3>
 <div align="center">
 <a href="https://twitter.com/yghugardare15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yghugardare15" height="30" width="40" /></a>
