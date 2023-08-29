@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
-
+<div style="margin:0 auto">
 - 🔭 I’m currently working on **Contact app project using Firebase,React and Tailwind**
 
 - 🌱 I’m currently learning **Redux, react query and typescript**
@@ -17,6 +17,7 @@
 - 📝 I regularly write articles on [Hashnode](https://yash-ghugardare-blogs.hashnode.dev/)
 
 - 📫 How to reach me **yghugardare6@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
