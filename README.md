@@ -6,9 +6,9 @@
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
 
-<div>
+<div align="center">
  
- 🔭 I’m currently working on **a contact page Project**
+ <p>🔭 I’m currently working on **a contact page Project**</p>
  
  🌱 I’m currently learning **Redux and React Query**
 
