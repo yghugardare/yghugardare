@@ -6,15 +6,17 @@
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
 
-<div align="center">
+<div>
  
  🔭 I’m currently working on **a contact page Project**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Redux and React Query**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 🌐 Currently seeking opportunities to contribute to open-source projects and be an active part of the developer community.
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 📧 Reach Out to me at yghugardare6@gmail.com
+
+ 😄 Pronouns: He/Him
  
  </div>
 
