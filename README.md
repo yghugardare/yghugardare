@@ -15,28 +15,26 @@
 
  👨‍💻 All of my projects are available at [Portfolio](https://yghugardare.github.io/YashPortfolio/)
 
- 📝 I regularly write articles on [Hashnode](https://yash-ghugardare-blogs.hashnode.dev/)
+ 📝 I write blogs on [Hashnode](https://yash-ghugardare-blogs.hashnode.dev/)
 
  📫 How to reach me **yghugardare6@gmail.com**
 </div>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="center" style="display:grid;grid-template-colums:auto">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwind,mui,nodejs,express,firebase,mongodb,nextjs,git,github,java,ts,appwrite,bootstrap,supabase,threejs,graphql,mysql,solidity,jest,vscode,vercel,prisma,postman,sass,codepen,supabase,docker,replit" />
     
 </div>
 <br/>
 <hr/><h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div style="display:grid;place-items:center;grid-template-columns:auto;gap:1">
   <img  width="400" height="400" src="https://streak-stats.demolab.com/?user=yghugardare&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
-<br/> 
+
   <img  width="400" height="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=yghugardare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br/> 
 <img  width="400" height="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yghugardare&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
   
-
 <br/><br/>
 <hr/>
 
