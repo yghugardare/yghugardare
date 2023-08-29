@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphgql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode,git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode,git,kubernetes,docker,c,vim" />
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,appwrite,bootstrap,codepen,discord,docker,express,firebase,git,github,graphql,idea,java,jest,mongodb,mysql,nextjs,nodejs,postman,prisma,py,react,redux,replit,sass,styledcomponents,supabase,tailwind,solidity,ts,threejs,vercel,vscode&theme=light)](https://skillicons.dev)
