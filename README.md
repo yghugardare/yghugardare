@@ -6,20 +6,25 @@
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
 
-<div align="center">
- 
- <p>🔭 I’m currently working on **a contact page Project**</p>
- 
- 🌱 I’m currently learning **Redux and React Query**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yghugardare&label=Profile%20views&color=0e75b6&style=flat" alt="yghugardare" /> </p>
 
- 🌐 Currently seeking opportunities to contribute to open-source projects and be an active part of the developer community.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yghugardare" alt="yghugardare" /></a> </p>
 
- 📧 Reach Out to me at yghugardare6@gmail.com
+- 🔭 I’m currently working on **XYZ**
 
- 😄 Pronouns: He/Him
- 
- </div>
+- 🌱 I’m currently learning **Redux, react query , typescript**
 
+- 👯 I’m looking to collaborate on **ABC**
+
+- 🤝 I’m looking for help with **asd**
+
+- 👨‍💻 All of my projects are available at [https://yghugardare.github.io/YashPortfolio/](https://yghugardare.github.io/YashPortfolio/)
+
+- 📝 I regularly write articles on [https://yash-ghugardare-blogs.hashnode.dev/](https://yash-ghugardare-blogs.hashnode.dev/)
+
+- 💬 Ask me about **react , javascript**
+
+- 📫 How to reach me **yghugardare6@gmail.com**
 <!--
 **yghugardare/yghugardare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
