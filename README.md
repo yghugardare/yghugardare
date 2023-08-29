@@ -28,15 +28,13 @@
 </div>
 <br/>
 <hr/><h2 align="center">⚡ Stats ⚡</h2>
-<div align="center" style="display:grid;grid-template-columns:auto;">
+<div align="center" style="display:grid;grid-template-columns:auto;row-gap:5">
   <img  width="400" height="400" src="https://streak-stats.demolab.com/?user=yghugardare&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
   <img  width="400" height="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=yghugardare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <img  width="400" height="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yghugardare&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
-<br/><br/>
+<br/>
 <hr/>
-
-
 <h3 align="center">🤝Connect with me🤝</h3>
 <div align="center">
 <a href="https://twitter.com/yghugardare15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yghugardare15" height="30" width="40" /></a>
