@@ -19,7 +19,13 @@
 
  📫 How to reach me **yghugardare6@gmail.com**
 </div>
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwing,mui,node,express,firebase,mongodb,nextjs,git,github,java" /><br>
+    <img src="https://skillicons.dev/icons?i=ts,appwrite,bootstrap,supabase,threejs,graphql,mysql,solidity,jest,vscode,vercel,prisma,postman,sass,codepen,supabase,docker" />
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="https://skillicons.dev">
