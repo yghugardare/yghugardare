@@ -29,7 +29,7 @@
 <br/>
 <hr/><h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div style="display:grid;place-items:center;grid-template-columns:auto;gap:10">
+<div style="display:grid;place-items:center;grid-template-columns:auto;gap:1">
   <img  width="400" height="400" src="https://streak-stats.demolab.com/?user=yghugardare&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
 <br/> 
   <img  width="400" height="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=yghugardare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br/> 
