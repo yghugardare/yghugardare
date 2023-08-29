@@ -29,7 +29,7 @@
 <br/>
 <hr/><h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div style="display:grid;place-items:center;">
+<div style="display:flex;justify-content:center;align-items:center;flex-wrap:wrap;">
   <img  src="https://streak-stats.demolab.com/?user=yghugardare&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
   <img  src="https://github-readme-stats-salesp07.vercel.app/api?username=yghugardare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   </div>
