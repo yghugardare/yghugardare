@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    
-</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Yash+Ghugardare!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Yash+Ghugardare!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
 
