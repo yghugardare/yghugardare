@@ -20,21 +20,6 @@
  📫 How to reach me **yghugardare6@gmail.com**
 </div>
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center" style="display:grid;grid-template-colums:auto">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwind,mui,nodejs,express,firebase,mongodb,nextjs,git,github,java,ts,appwrite,bootstrap,supabase,threejs,graphql,mysql,solidity,jest,vscode,vercel,prisma,postman,sass,codepen,supabase,docker,replit" />
-    
-</div>
-<br/>
-<hr/><h2 align="center">⚡ Stats ⚡</h2>
-<div align="center" style="display:grid;">
-  <img  width="400"  src="https://streak-stats.demolab.com/?user=yghugardare&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
-  <img  width="400"  src="https://github-readme-stats-salesp07.vercel.app/api?username=yghugardare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<img  width="400"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yghugardare&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </div>
-<br/>
-<hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -42,6 +27,22 @@
   
   <br/>
 </div>
+</div>
+<br/>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center" style="display:grid;">
+  <img  width="400"  src="https://streak-stats.demolab.com/?user=yghugardare&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+  <img  width="400"  src="https://github-readme-stats-salesp07.vercel.app/api?username=yghugardare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img  width="400"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yghugardare&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+<br/>
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center" style="display:grid;grid-template-colums:auto">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwind,mui,nodejs,express,firebase,mongodb,nextjs,git,github,java,ts,appwrite,bootstrap,supabase,threejs,graphql,mysql,solidity,jest,vscode,vercel,prisma,postman,sass,codepen,supabase,docker,replit" />
+    
 </div>
 <br/>
 <hr/>
@@ -54,6 +55,11 @@
 <a href="https://auth.geeksforgeeks.org/user/yghugardare6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yghugardare6" height="30" width="40" /></a>
 </div>
 <hr/>
+<div align="center"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=7000&pause=1000&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=6000&pause=1000&color=FFCE00&background=541516&center=true&vCenter=true&width=435&height=80&lines=Stay+Relentless!%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" /></a>
+</div>
 
 <!--
 **yghugardare/yghugardare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
