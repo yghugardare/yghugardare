@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">I'm a a final-year CS student with a passion for web development</h3>
 <br/>
-<div aligm="center" justify="center" >
+<div align="center" justify="center" >
     
 - 🔭 I’m currently working on **Contact app project using Firebase,React and Tailwind**
 
