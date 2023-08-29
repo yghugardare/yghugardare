@@ -35,6 +35,12 @@
   </div>
 <br/>
 <hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  
+</div>
+<br/>
+<hr/>
 <h3 align="center">🤝Connect with me🤝</h3>
 <div align="center">
 <a href="https://twitter.com/yghugardare15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yghugardare15" height="30" width="40" /></a>
@@ -42,14 +48,9 @@
 <a href="https://hashnode.com/@yashg" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@yashg" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/yash_ghugardare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_ghugardare" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yghugardare6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yghugardare6" height="30" width="40" /></a>
-
 </div>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yghugardare&show_icons=true&locale=en&layout=compact" alt="yghugardare" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yghugardare&show_icons=true&locale=en" alt="yghugardare" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yghugardare&" alt="yghugardare" /></p>
 <!--
 **yghugardare/yghugardare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
