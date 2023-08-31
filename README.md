@@ -25,7 +25,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yghugardare/yghugardare/output/github-contribution-grid-snake.svg" /
   <br/>
-    <img alt="contribution" src ="https://github.com/yghugardare/yghugardare/assets/117991996/85b364c8-3fe9-422e-9298-49ce1e008eff">
+<!--     <img alt="contribution" src ="https://github.com/yghugardare/yghugardare/assets/117991996/85b364c8-3fe9-422e-9298-49ce1e008eff"> -->
 </div>
 
 </div>
