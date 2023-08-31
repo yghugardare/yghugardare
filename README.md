@@ -58,9 +58,9 @@
 </div>
 <hr/>
 <div align="center"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=7000&pause=1000&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=6000&pause=1000&color=FFCE00&background=541516&center=true&vCenter=true&width=435&height=80&lines=Stay+Relentless!%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&color=FFCE00&background=541516&center=true&vCenter=true&width=435&height=80&lines=Stay+Relentless!%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" /></a>
 </div>
 
 <!--
