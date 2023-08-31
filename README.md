@@ -23,9 +23,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yghugardare/yghugardare/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yghugardare/yghugardare/output/github-contribution-grid-snake.svg" /
   <br/>
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yghugardare&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 </div>
 <br/>
