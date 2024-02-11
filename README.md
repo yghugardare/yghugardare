@@ -7,9 +7,9 @@
 <br/>
 <div align="center" justify="center" >
     
- 🔭 I’m currently working on **Contact app project using Firebase,React and Tailwind**
+ 🔭 I’m currently working on **Elearning project using Nodejs,Nextjs, Typescript, mongodb , redis and LLM**
 
- 🌱 I’m currently learning **Redux, react query and typescript**
+ 🌱 I’m currently learning **NextJs,RTK Query and Axios**
 
  👯 I’m seeking opportunities to contribute to open-source projects
 
