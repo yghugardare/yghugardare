@@ -3,17 +3,14 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Yash+Ghugardare!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
-<h2 align="center">I'm a a final-year CS student with a passion for web development</h2>
+<h2 align="center">I'm a a CS graduate with a passion for web development and AI</h2>
 <br/>
 <div align="center" justify="center" >
-    
- 🔭 I’m currently working on **Elearning project using Nodejs,Nextjs, Typescript, mongodb , redis and LLM**
 
- 🌱 I’m currently learning **NextJs,RTK Query and Axios**
 
  👯 I’m seeking opportunities to contribute to open-source projects
 
- 👨‍💻 All of my projects are available at [Portfolio](https://yghugardare.github.io/YashPortfolio/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://yash-g-portfolio.vercel.app/)
 
  📝 I write blogs on [Hashnode](https://yash-ghugardare-blogs.hashnode.dev/)
 
